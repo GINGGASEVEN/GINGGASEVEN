@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Galaxy AI Group</h1>
+<h1 align="center">Ahlan Firmansyah</h1>
 <p align="center">
   <img src="https://github.com/GINGGASEVEN.png" width="120" style="border-radius: 50%" alt="Galaxy AI Logo"/>
 </p>
