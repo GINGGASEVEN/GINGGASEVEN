@@ -10,7 +10,7 @@
 ---
 
 ### 👋 Tentang Kami
-Kami dari **PT. Galaxy AI Group** menyediakan berbagai template web gratis dan responsif untuk kebutuhan:
+Kami dari **Ahlan Firmansyah** menyediakan berbagai template web gratis dan responsif untuk kebutuhan:
 - 🌍 Website Sekolah
 - 💼 Website Kantor
 - 🛒 Jualan Buku Online
