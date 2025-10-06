@@ -1,4 +1,4 @@
-<h1 align="center">Ahlan Firmansyah</h1>
+<h1 align="center">Galaxy Al Group</h1>
 <p align="center">
   <img src="https://github.com/GINGGASEVEN.png" width="120" style="border-radius: 50%" alt="Galaxy AI Logo"/>
 </p>
@@ -10,7 +10,7 @@
 ---
 
 ### 👋 Tentang Kami
-Kami dari **Ahlan Firmansyah** menyediakan berbagai template web gratis dan responsif untuk kebutuhan:
+Kami dari **Galaxy AL Group** menyediakan berbagai template web gratis dan responsif untuk kebutuhan:
 - 🌍 Website Sekolah
 - 💼 Website Kantor
 - 🛒 Jualan Buku Online
